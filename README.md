@@ -1,0 +1,2 @@
+# frontend
+KKSZKI frontend classes
