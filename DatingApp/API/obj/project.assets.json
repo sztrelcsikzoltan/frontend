@@ -6294,19 +6294,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tanulo\\.nuget\\packages\\": {}
+    "C:\\Users\\Zolly\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_front end\\211108 front end\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Data\\pers dev\\IT\\KKSZKI\\back end\\211110 Angular DatingApp\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\_front end\\211108 front end\\DatingApp\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Tanulo\\.nuget\\packages\\",
-      "outputPath": "D:\\_front end\\211108 front end\\DatingApp\\API\\obj\\",
+      "projectPath": "C:\\Data\\pers dev\\IT\\KKSZKI\\back end\\211110 Angular DatingApp\\DatingApp\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\Zolly\\.nuget\\packages\\",
+      "outputPath": "C:\\Data\\pers dev\\IT\\KKSZKI\\back end\\211110 Angular DatingApp\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tanulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Zolly\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6369,7 +6369,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

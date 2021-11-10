@@ -22,7 +22,6 @@ C:\Users\Tanulo\source\repos\DatingApp\API\obj\Debug\net5.0\staticwebassets\API.
 C:\Users\Tanulo\source\repos\DatingApp\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
 C:\Users\Tanulo\source\repos\DatingApp\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
 C:\Users\Tanulo\source\repos\DatingApp\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
-C:\Users\Tanulo\source\repos\DatingApp\API\obj\Debug\net5.0\API.csproj.CopyComplete
 C:\Users\Tanulo\source\repos\DatingApp\API\obj\Debug\net5.0\API.dll
 C:\Users\Tanulo\source\repos\DatingApp\API\obj\Debug\net5.0\ref\API.dll
 C:\Users\Tanulo\source\repos\DatingApp\API\obj\Debug\net5.0\API.pdb
@@ -136,3 +135,146 @@ D:\_front end\211108 front end\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\n
 D:\_front end\211108 front end\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\_front end\211108 front end\DatingApp\API\bin\Debug\net5.0\Humanizer.dll
 D:\_front end\211108 front end\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\client\angular.json
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\client\package-lock.json
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\client\package.json
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\client\tsconfig.app.json
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\client\tsconfig.json
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\client\tsconfig.spec.json
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tanulo\source\repos\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\appsettings.json
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\client\angular.json
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\client\package-lock.json
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\client\package.json
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\client\tsconfig.app.json
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\client\tsconfig.json
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\client\tsconfig.spec.json
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\API.exe
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\API.deps.json
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\API.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\ref\API.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\API.pdb
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Humanizer.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\API.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\ref\API.dll
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\API.pdb
+C:\Data\pers dev\IT\KKSZKI\back end\211110 Angular DatingApp\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
