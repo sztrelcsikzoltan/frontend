@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Data\\pers dev\\IT\\KKSZKI\\back end\\211110 Angular DatingApp\\DatingApp\\API\\API.csproj": {}
+    "C:\\Data\\pers dev\\IT\\KKSZKI\\front end\\211115 DatingApp 4\\DatingApp-1\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Data\\pers dev\\IT\\KKSZKI\\back end\\211110 Angular DatingApp\\DatingApp\\API\\API.csproj": {
+    "C:\\Data\\pers dev\\IT\\KKSZKI\\front end\\211115 DatingApp 4\\DatingApp-1\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\pers dev\\IT\\KKSZKI\\back end\\211110 Angular DatingApp\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Data\\pers dev\\IT\\KKSZKI\\front end\\211115 DatingApp 4\\DatingApp-1\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Data\\pers dev\\IT\\KKSZKI\\back end\\211110 Angular DatingApp\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Data\\pers dev\\IT\\KKSZKI\\front end\\211115 DatingApp 4\\DatingApp-1\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Zolly\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\pers dev\\IT\\KKSZKI\\back end\\211110 Angular DatingApp\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Data\\pers dev\\IT\\KKSZKI\\front end\\211115 DatingApp 4\\DatingApp-1\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zolly\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,13 +40,13 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.0, )"
             },
@@ -57,6 +57,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.7.1, )"
             }
           },
           "imports": [

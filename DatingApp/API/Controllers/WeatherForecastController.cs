@@ -13,12 +13,7 @@ namespace API.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Freezing to deatch"
-        };
-
-         private static readonly string[] Locations = new[]
-        {
-            "Budapest", "Miskolc", "Chicago", "New York", "Emőd", "Los Angeles", "Omaha", "Washington", "Florida", "Seeatle"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Freezing to death"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
@@ -36,8 +31,7 @@ namespace API.Controllers
             {
                 Date = DateTime.Now.AddDays(index),
                 TemperatureC = rng.Next(-20, 55),
-                Summary = Summaries[rng.Next(Summaries.Length)],
-                Location = Locations[rng.Next(Locations.Length)],
+                Summary = Summaries[rng.Next(Summaries.Length)]
             })
             .ToArray();
         }
