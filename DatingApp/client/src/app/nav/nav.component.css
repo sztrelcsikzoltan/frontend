@@ -1,0 +1,43 @@
+nav,
+.dropdown-menu {
+    background-color: salmon;
+}
+
+.dropdown-toggle,
+.dropdown-item {
+    cursor: pointer;
+    font-size: 1.1em;
+}
+
+.dropdown-item:hover {
+    background-color: lightsalmon!important;
+}
+
+nav a {
+    color: bisque!important;
+}
+
+nav a:hover {
+    color: bisque !important;
+    background-color: lightsalmon;
+}
+
+.nav-link {
+    font-size: 1.1em;
+}
+
+nav input {
+    background-color: bisque;
+}
+
+nav button {
+    background-color: plum;
+    color: bisque;
+    border-color: bisque;
+}
+
+nav button:hover {
+    background-color: bisque;
+    color: salmon;
+    border-color: white;
+}

@@ -4726,11 +4726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Data\\pers dev\\IT\\KKSZKI\\front end\\211115 DatingApp 4\\DatingApp-1\\api\\API.csproj",
+      "projectUniqueName": "C:\\Data\\pers dev\\IT\\KKSZKI\\front end\\211117 DatingApp 5\\DatingApp\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Data\\pers dev\\IT\\KKSZKI\\front end\\211115 DatingApp 4\\DatingApp-1\\api\\API.csproj",
+      "projectPath": "C:\\Data\\pers dev\\IT\\KKSZKI\\front end\\211117 DatingApp 5\\DatingApp\\api\\API.csproj",
       "packagesPath": "C:\\Users\\Zolly\\.nuget\\packages\\",
-      "outputPath": "C:\\Data\\pers dev\\IT\\KKSZKI\\front end\\211115 DatingApp 4\\DatingApp-1\\api\\obj\\",
+      "outputPath": "C:\\Data\\pers dev\\IT\\KKSZKI\\front end\\211117 DatingApp 5\\DatingApp\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zolly\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -18,6 +18,7 @@ using API.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
+using API.Extensions;
 
 namespace API
 {
@@ -33,14 +34,19 @@ namespace API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            services.AddControllers();
+            services.AddCors();
+            services.AddApplicationServices(_config); // így elérjük a szolgáltatásokat a másik osztályból
+            /*
             services.AddScoped<ITokenService, TokenService>();
             services.AddDbContext<DataContext>(options => 
             {
                 options.UseSqlite(_config.GetConnectionString("DefaultConnection"));
             });
-
-            services.AddControllers();
-            services.AddCors();
+            */
+            services.AddIdentityServices(_config);
+            /*
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options => 
             {
                 options.TokenValidationParameters = new TokenValidationParameters
@@ -52,7 +58,7 @@ namespace API
                     
                 };
             });
-
+            */
             
             services.AddSwaggerGen(c =>
             {
@@ -74,6 +80,7 @@ namespace API
 
             app.UseRouting();
 
+            // app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().WithOrigins("https://kecskeprojects.github.io"));
             app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().WithOrigins("https://localhost:4200"));
 
             app.UseAuthentication(); // ez jött hozzá

@@ -78,7 +78,7 @@ namespace API.Controllers
             }
 
             // return user;
-            // nem ilyen, hanem más ípusú val térün vissza
+            // nem ilyen, hanem UserDto típussal térünk vissza
             return new UserDto
             {
                 Username = user.UserName,
