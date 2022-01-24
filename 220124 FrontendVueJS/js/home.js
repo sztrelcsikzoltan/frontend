@@ -1,0 +1,1 @@
+const home = {template:`<h1>Hello from home.js</h1>`}
