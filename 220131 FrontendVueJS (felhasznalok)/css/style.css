@@ -1,0 +1,12 @@
+.jobb{
+    text-align: right;
+}
+
+.kozep{
+    text-align: center;
+}
+
+.kozep:hover{
+    transition: transform 2s;
+    transform: scale(5);
+}
