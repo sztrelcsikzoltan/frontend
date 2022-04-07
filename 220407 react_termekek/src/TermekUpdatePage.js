@@ -14,7 +14,7 @@ function TermekUpdatePage() {
   }, []);
   
   return (
-    <div className='text-center'>
+    <div className='text-center pt-2'>
       <h2 style={{color: "Salmon"}}>Válaszd ki a módosítani kívánt terméket:</h2>
       {termekek.map((termek) => (
         <NavLink key={termek.id} to={"/modositas/" + termek.id}>

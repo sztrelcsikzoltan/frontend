@@ -37,7 +37,7 @@ function TermekDelete() {
       <div>{termek.ar} Ft</div>
       <div className='small'>{termek.leiras}</div>
       <div>
-        <button onClick={deleteTermek} className="btn btn-danger">Termék törlése</button>
+        <button onClick={deleteTermek} className="btn btn-danger m-2">Termék törlése</button>
       </div>
       <img
         className='img-fluid p-2'

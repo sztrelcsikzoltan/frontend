@@ -14,7 +14,7 @@ function TermekDeletePage() {
   }, []);
   
   return (
-    <div className='text-center'>
+    <div className='text-center pt-2'>
       <h2>Válaszd ki a törölni kívánt terméket:</h2>
       {termekek.map((termek) => (
         <NavLink key={termek.id} to={"/torles/" + termek.id}>

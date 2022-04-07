@@ -15,7 +15,7 @@ function TermekUpdate( value = "", onChange) {
     }, [id, termek]);
 
     return (
-    <div className="text-center">
+    <div className="text-center pt-2">
         <h2>Termék módosítása</h2>
         <form
          onSubmit={(e) =>{
@@ -45,26 +45,26 @@ function TermekUpdate( value = "", onChange) {
          
         >
           <div className="form-group row pb-3">
-            <label className="col-sm-3 col-form-label">Név:</label>
-            <div className="col-sm-9">
+            <label className="col-sm-3 mt-2">Név:</label>
+            <div className="col-sm-8">
               <input type="text" name="nev" className="form-control" defaultValue={termek.nev} />
             </div>
           </div>
           <div className="form-group row pb-3">
-            <label className="col-sm-3 col-form-label">Ár:</label>
-            <div className="col-sm-9">
+            <label className="col-sm-3 mt-2">Ár:</label>
+            <div className="col-sm-8">
               <input type="number" name="ar" className="form-control" defaultValue={termek.ar} />
             </div>
           </div>
           <div className="form-group row pb-3">
-            <label className="col-sm-3 col-form-label">Leírás:</label>
-            <div className="col-sm-9">
+            <label className="col-sm-3 mt-2">Leírás:</label>
+            <div className="col-sm-8">
               <input type="text" name="leiras" className="form-control" defaultValue={termek.leiras} />
             </div>
           </div>
           <div className="form-group row pb-3">
-            <label className="col-sm-3 col-form-label">Kép link:</label>
-            <div className="col-sm-9">
+            <label className="col-sm-3 mt-2">Kép link:</label>
+            <div className="col-sm-8">
               <input type="text" name="keplink" className="form-control" defaultValue={termek.keplink} />
             </div>
           </div>

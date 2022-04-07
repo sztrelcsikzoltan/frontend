@@ -64,7 +64,7 @@ function TermekCreatePage() {
         </div>
 
         <button type="submit" className="btn btn-success">
-          termek felvétele
+          Termék felvétele
         </button>
 
       </form>
